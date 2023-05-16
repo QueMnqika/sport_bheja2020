@@ -1,0 +1,65 @@
+* {
+    font-family: Verdana, Helvetica, Tahoma, sans-serif;
+    margin-top: 0px;
+}
+
+body {
+    background-color: yellow;
+    text-align: center;
+}
+
+nav {
+    background-color: black;
+    color: #fffebe;
+    margin-top: 10px;
+}
+
+header{
+    text-align: center;
+    background-color: black;
+    color: yellow;
+    padding: 10px;
+    font-size: 25px;
+}
+
+footer {
+    text-align: center;
+    padding-top: 290px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    padding: 5px;
+}
+
+li {
+    text-decoration: none;
+    display: inline;
+    padding: 15px;
+}
+
+a:hover {
+
+}
+
+section a:visited {
+    color: #000000;
+}
+
+a:visited {
+    color: #fffebe;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    border: 2px solid #000000;
+}
+
+div {
+    padding: 5px;
+}
